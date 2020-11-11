@@ -9,7 +9,7 @@ where
 
 
 select 
-    minvoc, "MINVOC expr: " + minvoc.getExpr()
+    minvoc.getExpr()
 
 
 
